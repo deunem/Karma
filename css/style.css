@@ -1,0 +1,556 @@
+
+
+header{
+position: absolute;
+width: 1440px;
+height: 107px;
+left: 0px;
+top: 0px;
+
+background: #0A2E36;
+}
+
+#mini {
+    position: absolute;
+    width: 133px;
+    height: 61px;
+    left: 126px;
+    top: 23px;
+    
+}
+
+#main{
+    background-color: #0A2E36;
+    position: absolute;
+    width: 1440px;
+    height: 659px;
+    left: 0px;
+    top: 105px;
+
+}
+
+
+.team {
+    position: absolute;
+    
+    left: 126px;
+    top: 200px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+    
+}
+
+h1{
+    position: absolute;
+    width: 525px;
+    height: 78px;
+    left: 126px;
+    top: 207px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+
+
+
+    color: #FFFFFF;
+}
+
+#logo{
+    position: absolute;
+    width: 799px;
+    height: 525px;
+    left: 587px;
+    top: 100px;}
+
+#shadow {
+    position: absolute;
+    width: 840px;
+    height: 547px;
+    left: 567px;
+    top: 100px;
+
+    filter: blur(40px);
+}
+
+#contact_link{
+    position: absolute;
+    left: 126px;
+    top: 350px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #27FB6B;
+}
+
+#slogan{
+    position: absolute;
+    width: 1440px;
+    height: 213px;
+    left: 0px;
+    top: 764px;
+
+    background: #FFFFFF;
+}
+
+#slog{
+    position: absolute;
+    width: 139px;
+    height: 24px;
+    left: 126px;
+    top: 30px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #0A2E36;
+}
+
+#slogan_text{
+position: absolute;
+width: 546px;
+height: 24px;
+left: 450px;
+top: 100px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000; 
+}
+
+hr{
+ position: absolute;
+width: 524.01px;
+height: 0px;
+left: 460px;
+top: 145px;
+
+border: 1px solid #000000;
+transform: rotate(-180deg);
+}
+
+#intro{
+position: absolute;
+width: 1440px;
+height: 361px;
+left: 0px;
+top: 977px;
+
+background: #0A2E36;
+}
+
+#text_intro{
+position: absolute;
+width: 1101px;
+height: 48px;
+left: 126px;
+top: 150px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+#int{
+margin-left: 127px;
+padding-top: 5%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #27FB6B;
+}
+
+#photo{
+
+width: 1440px;
+height: 625px;
+left: 0px;
+top: 1338px;
+background: #ffffff;
+}
+
+#dasha_ph{
+    position: absolute;
+width: 293px;
+height: 399px;
+left: 78px;
+top: 1400px;
+}
+
+#madina_ph{
+    position: absolute;
+width: 292px;
+height: 399px;
+left: 409px;
+top: 1400px;
+}
+
+#kamila_ph{
+    position: absolute;
+width: 292px;
+height: 399px;
+left: 740px;
+top: 1400px;
+}
+
+#merey_ph{
+    position: absolute;
+    width: 292px;
+    height: 399px;
+    left: 1070px;
+    top: 1400px;
+}
+
+#dasha_name{
+    position: absolute;
+width: 139px;
+height: 24px;
+left: 155px;
+top: 1800px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #000;
+}
+
+#madina_name{
+    position: absolute;
+width: 221px;
+height: 24px;
+left: 445px;
+top: 1800px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000;
+}
+
+#kamila_name{
+position: absolute;
+width: 199px;
+height: 24px;
+left: 786px;
+top: 1800px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000;
+
+}
+
+#merey_name{
+    position: absolute;
+width: 202px;
+height: 24px;
+left: 1116px;
+top: 1800px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #000;
+}
+
+.main_text {
+    /* display: flex; */
+    /* flex-direction: column; */
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+.main_info{
+    position: absolute;
+    /* display: flex; */
+    /* margin-right: 5%; */
+    
+}
+
+.main {
+    position: absolute;
+    width: 1440px;
+    height: 659px;
+    left: 0px;
+    top: 105px;
+    
+    background: #0A2E36;
+}
+
+
+
+#name_person{
+    left: 677px;
+    top: 160px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+
+    color: #FFFFFF;
+}
+
+
+#daria_main{
+width: 407px;
+height: 554px;
+margin-left: 150px;
+top: 157px;
+
+background: #D9D9D9;
+}
+
+#edu{
+    position: absolute;
+width: 1440px;
+height: 249px;
+left: 0px;
+top: 764px;
+
+background: #27FB6B;
+}
+
+#edu_text{
+    margin-left: 946px;
+    margin-top: 30px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #0A2E36;
+
+
+color: #0A2E36;
+}
+
+#aitu{
+    position: absolute;
+width: 230px;
+height: 114px;
+left: 677px;
+top: 50px;
+}
+
+#educ{
+margin-left: 100px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+
+
+color: #0A2E36;
+}
+
+#empl{
+position: absolute;
+width: 1440px;
+height: 407px;
+left: 0px;
+top: 1013px;
+
+background: #0A2E36;
+}
+
+#empl_main{
+    margin-left: 100px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+
+color: #FFFFFF;
+}
+
+#empl_info{
+     position: absolute;
+width: 1124px;
+height: 116px;
+margin-left: 150px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #27FB6B;
+}
+
+#skills{
+position: absolute;
+width: 1440px;
+height: 423px;
+left: 0px;
+top: 1420px;
+
+background: #FFFFFF;
+}
+
+#skill_main{
+    margin-left: 100px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+
+
+color: #0A2E36;
+}
+
+#skillset{
+margin-left: 100px;
+
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #27FB6B;
+}
+
+#personal{
+    position: absolute;
+width: 1440px;
+height: 423px;
+left: 0px;
+top: 1843px;
+
+background: #0A2E36;
+}
+
+#personal_main{
+margin-left: 100px;
+
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+
+color: #FFFFFF;
+}
+
+#interests{
+margin-left: 100px;
+
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #27FB6B;
+}
+
+
+#forma{
+    position: absolute;
+    width: 1440px;
+    height: 550px;
+    left: 0px;
+    top: 0;
+    background-color: #0A2E36;
+}
+
+#subtitle{
+    margin-left: 500px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 29px;
+
+color: #27FB6B;
+}
+
+form {
+    margin-top: 30px;
+    margin-left: 5px;
+    }
+    form label {
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color: #27FB6B;
+    }
+    form input[type="text"],
+    form input[type="email"],
+    form textarea {
+    margin-left: 5px;
+    width: 98%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    font-family: 'Montserrat';
+    }
+    form textarea {
+    height: 100px;
+    }
+    form input[type="submit"] {
+    background-color: #f8f8f8 ;
+    color: #27FB6B;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+
+    }
+#sub {
+    color:#ABABAB;
+    }
