@@ -299,7 +299,7 @@ color: #000;
     width: 1440px;
 height: 38px;
 left: 0px;
-top: 1690px;
+top: 1700px;
 color: #FFFFFF;
 background-position: top;
 }
@@ -307,7 +307,7 @@ background-position: top;
 #footer_text{
     position: absolute;
 left: 80px;
-top: 50px;
+top: 200px;
 
 
     font-family: 'Montserrat';
